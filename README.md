@@ -4,5 +4,4 @@ Code for the Color Mixing Lamp Project from the [Arduino Starter Kit](https://st
 
 The code is based on the code from the project book, but I left out the lines that only print information in the serial monitor, because they don't add any real functionality to the project.
 
-![Arduino One Love-o-Meter Project](https://github.com/Marjolein-Kasman-de-Jong/love-o-meter/blob/main/love-o-meter.jpg)
-
+![Arduino One Love-o-Meter Project](https://github.com/Marjolein-Kasman-de-Jong/color-mixing-lamp/blob/main/color-mixing-lamp.jpg)
